@@ -2,13 +2,13 @@
 This repo will contain the plans for the upcoming workshops we will have.
 
 
-Python -> Intro to Coding
+* Python -> Intro to Coding
 
-HTML, CSS -> Make A Website
+* HTML, CSS -> Make A Website
 
-JS -> Make a simple game
+* JS -> Make a simple game
 
-SQL -> Guest Talk
+* SQL -> Guest Talk
 
-Portfolio -> Make your portfolio website
+* Portfolio -> Make your portfolio website
 
